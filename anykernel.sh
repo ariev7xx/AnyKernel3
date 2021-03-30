@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Predator Stormbreaker Kernel  by sohamsen  @ xda-developers
+kernel.string=Ariev Kernel  by ariev7xx  @
 do.devicecheck=1
 do.modules=0
 do.systemless=1
